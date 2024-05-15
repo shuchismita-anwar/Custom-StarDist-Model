@@ -2,15 +2,13 @@
 
 This repository contains code for training and using the StarDist model for segmentation of microscopy images, utilizing both custom-trained and pre-trained models.
 
-![Directory Structure](images/directory_structure.png)
-
 ### Custom-Trained Model
 
 The custom-trained model is tailored to specific datasets. By training on custom data, the model learns to accurately segment images based on unique features and structures present in the user's dataset. 
 
-### Pretrained Model
+### Pre-trained Model
 
-The pretrained StarDist model offers a quick and effective solution for segmentation without the need for extensive training. It is particularly useful for users who need reliable segmentation results on standard datasets.
+The trained StarDist model offers a quick and effective solution for segmentation without the need for extensive training. It is particularly useful for users who need reliable segmentation results on standard datasets.
 
 ## Results
 
@@ -18,8 +16,8 @@ The segmented images are saved in the specified output directory, with filenames
 
 ### Example Results
 
-- **Pretrained Model Trained Segmented Image**: ![Alt text]([https://example.com/path/to/image.png](https://github.com/shuchismita-anwar/Custom-StarDist-Model/blob/master/segmentation_results_pretrained/Muc1_Ecad_SPC_x20_2_XY10_00016_CH3_segmentation.png))
-- **Custom Model Trained Segmented Image**: ![Alt text]([https://example.com/path/to/image.png](https://github.com/shuchismita-anwar/Custom-StarDist-Model/blob/master/segmentation_results/Muc1_Ecad_SPC_x20_2_XY10_00016_CH3_segmentation.png))
+- **Pretrained Model Trained Segmented Image**: ![Alt text](https://github.com/shuchismita-anwar/Custom-StarDist-Model/blob/master/segmentation_results_pretrained/Muc1_Ecad_SPC_x20_2_XY10_00016_CH3_segmentation.png)
+- **Custom Model Trained Segmented Image**: ![Alt text](https://github.com/shuchismita-anwar/Custom-StarDist-Model/blob/master/segmentation_results/Muc1_Ecad_SPC_x20_2_XY10_00016_CH3_segmentation.png)
 
 ## Installation
 
