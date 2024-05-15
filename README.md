@@ -16,8 +16,8 @@ The segmented images are saved in the specified output directory, with filenames
 
 ### Example Results
 
-**Segmented Image (Pretrained Model)**: ![Alt text](https://github.com/shuchismita-anwar/Custom-StarDist-Model/blob/master/segmentation_results_pretrained/Muc1_Ecad_SPC_x20_2_XY10_00016_CH3_segmentation.png)
-**Segmented Image (Custom Model Trained)**: ![Alt text](https://github.com/shuchismita-anwar/Custom-StarDist-Model/blob/master/segmentation_results/Muc1_Ecad_SPC_x20_2_XY10_00016_CH3_segmentation.png)
+**Segmented Image (Pre-trained Model)**: ![Alt text](https://github.com/shuchismita-anwar/Custom-StarDist-Model/blob/master/segmentation_results_pretrained/Muc1_Ecad_SPC_x20_2_XY10_00016_CH3_segmentation.png)
+**Segmented Image (Custom Model)**: ![Alt text](https://github.com/shuchismita-anwar/Custom-StarDist-Model/blob/master/segmentation_results/Muc1_Ecad_SPC_x20_2_XY10_00016_CH3_segmentation.png)
 
 ## Installation
 
